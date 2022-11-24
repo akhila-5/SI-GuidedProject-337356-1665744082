@@ -16,4 +16,4 @@ Despite the very serious prognosis (outlook) of lung cancer, some people with ea
 
 We will be using classification algorithms such as Decision tree, Random forest, KNN, and xgboost. We will train and test the data with these algorithms. From this best model is selected and saved in pkl format. We will be doing flask integration and IBM deployment.
 
-VIDEO DEMONSTRATION LINK :
+VIDEO DEMONSTRATION LINK : https://drive.google.com/file/d/1aeMVhrySha-I5eQybyDfH5SPI48F2sVy/view?usp=share_link
